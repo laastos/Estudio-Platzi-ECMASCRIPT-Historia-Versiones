@@ -18,6 +18,7 @@
   ],
   "author": "Libardo Arturo Arroyave Bustos <laastos@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/laastos/Estudio-Platzi-ECMASCRIPT-Historia-Versiones/issues"
   },
