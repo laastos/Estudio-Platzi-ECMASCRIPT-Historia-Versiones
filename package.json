@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/laastos/Estudio-Platzi-ECMASCRIPT-Historia-Versiones/issues"
   },
-  "homepage": "https://github.com/laastos/Estudio-Platzi-ECMASCRIPT-Historia-Versiones#readme"
+  "homepage": "https://github.com/laastos/Estudio-Platzi-ECMASCRIPT-Historia-Versiones#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }

@@ -10,7 +10,7 @@ class User {
     this.age = age;
     console.log(`Nuevo usuario: ${this.name}`);
   }
-  speak() {
+  #speak() {
     return 'Hello';
   }
   greeting() {
